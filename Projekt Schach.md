@@ -25,24 +25,27 @@ Regeln für:
 
 ## Ausgangssituation
 
-Im zuge des Faches SYP muss unser Team das aus drei Mitgliedern besteht, ein Projekt mit dem erlerneten Wissen aus dem Unterricht erfolgreich umsetzen. 
+Im Zuge des Faches Systemplanung und Projektentwicklung (SYP) müssen wir ein Projekt planen und durchführen. 
+Deshalb wurde ein Team bestehend aus drei Mitgliedern gegründet, dies nun das erlernte Wissen aus dem Unterricht erfolgreich umsetzt. 
 
-Das Team hat sich für die Umsetzung des Spiele Klassikers Schach entschieden.
-Als Programmiersprache wird C# verwendet, da durch den Unterrich der großteil des Know Hows bereits vorhanden ist. 
+Das Team hat sich für die Umsetzung eines Klassikers entschieden, nämlich Schach. 
+Das Spiel wird mit der Engine Unity entwickelt, die Programmiersprache ist C#. Für C# haben wir uns entschlossen da wir das meiste Wissen mit dieser Sprache haben. 
 
 
 ### Projektziele
 
-- Programmieren des Spieles Schach mit allen modernen Regeln im 2D Style. 
-- Pass & Play option. (Wobei zwei Spieler an der gleichen Instanz des Prorgammes abwechselnden Züge vornehmen.)
-- Multiplayer option. 
-- KI Gegner als Trainings option.
+- Programmieren eines 2D Schachspieles mit allen modernen Regeln
+- Multiplayer über das Internet und lokal
+- KI-Gegner
+<!-- 
+Pass & Play option. (Wobei zwei Spieler an der gleichen Instanz des Prorgammes abwechselnden Züge vornehmen.)
+- Multiplayer option.
 - Navigations und Spiel hilfen 
   - Spieler kann auf dem Schachbrett optische Pfeile erstellen, als Hilfe um Spielzüge einfacher berechnen zu können. 
   - Anzeige von möglichen Spielzügen bei Auswahl einer Spielfigur. 
 - Erstellung von verschiedenen optischen Designes des Spielbrettes und Figuren. 
 - Erstellung von UI um alle Inhalte für den Spieler simpel zugänglich zu machen
-
+-->
 
   
 ### Projektinhalt
@@ -62,23 +65,24 @@ Als Programmiersprache wird C# verwendet, da durch den Unterrich der großteil d
 ### Kritische Erfolgsfaktoren 
 - Erstellung eines gemeinsamen Github repository
 - Klare Arbeitsverteilung der Teammitglieder
-- Erlangen des nötigen Know How's in C#
+- Erlangen des nötigen "Know How's" in C# und Unity
 - Pünktliche fertigstellung
-
 
 ### Termine
 - Projektstart: 02.01.2023
 - Projektende: 01.07.2023
 
 ### Kosten / Ressourcen 
--  60 Stunden
+-  100 Stunden
 
 ### Projektorganisation
-- Projektauftraggeber: Prof. Klewein
+- Projektbetreuer: Prof. David Klewein
 - Projektleiter: Andreas Fuchs-Eisner
--  Projektteammitglieder: 
-   -  Alexander-David Beck
-   -  Markus Schoder
+  - Programmierung der grundlegenden Spielmechaniken
+- Projektmitglied: Alexander-David Beck
+  - Entwicklung des Multiplayers
+- Projektmitglied: Markus Schoder
+  - Implementierung eines KI-Gegners
 
 ### Unterschriften
 <br><br><br>
